@@ -1,0 +1,14 @@
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\bin\Debug\AlyssaNielsenWPFCalculator.exe.config
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\App.g.cs
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator_MarkupCompile.cache
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator_MarkupCompile.lref
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\bin\Debug\AlyssaNielsenWPFCalculator.exe
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\bin\Debug\AlyssaNielsenWPFCalculator.pdb
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\MainWindow.baml
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator.g.resources
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator.Properties.Resources.resources
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator.csproj.GenerateResource.Cache
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator.exe
+C:\Users\Alyss\School\2017\Summer 2017\IT 4440 - C# .Net\Week 3\AlyssaNielsenWPFCalculator\AlyssaNielsenWPFCalculator\obj\Debug\AlyssaNielsenWPFCalculator.pdb
